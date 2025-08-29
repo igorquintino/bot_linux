@@ -1,0 +1,32 @@
+{
+  "geral": [
+    {
+      "nome": "Whey Protein 100% Concentrado 900g",
+      "preco": "R$ 124,00",
+      "preco_desconto": "R$ 99,90",
+      "frete_gratis": "Sim",
+      "link": "https://mercadolivre.com/sec/2zBYAdW",
+      "imagem": "https://i.imgur.com/jiZnt8t.jpeg",
+      "caminho": "https://i.imgur.com/jiZnt8t.jpeg"
+    },
+    {
+      "nome": "Cabo rápido USB Tipo-C 2m",
+      "preco": "R$ 44,00",
+      "preco_desconto": "R$ 37,40",
+      "frete_gratis": "",
+      "link": "https://mercadolivre.com/sec/1nhvzAj",
+      "caminho": "https://i.imgur.com/BCQO9da.jpeg"
+    }
+  ],
+  "prioridade": [
+    {
+      "nome": "Barraca iglu 3 pessoas",
+      "preco": "R$ 169,90",
+      "preco_desconto": "R$ 119,00",
+      "frete_gratis": "",
+      "link": "https://mercadolivre.com/sec/1NNBMXN",
+      "caminho": "https://i.imgur.com/JmfsJZu.jpeg"
+    }
+  ],
+  "prioritarios": []
+}
