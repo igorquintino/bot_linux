@@ -7,7 +7,7 @@ require('dotenv').config();
 
 /* -------------------- Config -------------------- */
 const TEMPO_ENVIO =
-  Number(process.env.TEMPO_ENVIO_MS) > 0 ? Number(process.env.TEMPO_ENVIO_MS) : 2 * 60 * 1000;
+  Number(process.env.TEMPO_ENVIO_MS) > 0 ? Number(process.env.TEMPO_ENVIO_MS) : 12 * 60 * 1000;
 
 const JSON_PATH = process.env.JSON_PATH || './mensagens.json';
 const GROUP_ID_ENV = process.env.GROUP_ID || '';
